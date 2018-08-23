@@ -1,0 +1,14 @@
+Thu Aug 23 14:46:55 EEST 2018 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Thu Aug 23 14:46:55 EEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0165-669b-de24-ffffb4b7cdb2 
+on database directory B:\εαπ\πλη24\εργασια 3\PLH24_3ERG_KOSTALAS\Αρχεια 3ης Εργασιας_ver3\eWeatherDB\PLH24 with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_171/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\Program Files\Java\jdk1.8.0_171\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=B:\εαπ\πλη24\εργασια 3\PLH24_3ERG_KOSTALAS\Αρχεια 3ης Εργασιας_ver3\eWeatherDB
+Database Class Loader started - derby.database.classpath=''
